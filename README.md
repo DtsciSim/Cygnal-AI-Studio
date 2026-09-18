@@ -1,3 +1,5 @@
+<img src="cygnal_logo.jpg" alt="Cygnal AI Studio" width="180">
+
 <div align="center">
 
 # Cygnal AI Studio
@@ -51,7 +53,7 @@ Use hosted AI connections or connect to compatible local services such as **Olla
 
 ## Downloads
 
-Windows installers will be distributed through [GitHub Releases](https://github.com/DtsciSim/Cygnal-AI-Studio/releases). **The initial installer upload is pending.** This repository is not an installation package.
+Windows installers will be distributed through [GitHub Releases](https://github.com/DtsciSim/Cygnal-AI-Studio/releases). This repository is not an installation package.
 
 After an installer is published:
 
