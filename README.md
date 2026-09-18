@@ -1,6 +1,8 @@
-<img src="cygnal_logo.jpg" alt="Cygnal AI Studio" width="180">
-
 <div align="center">
+
+<p align="center">
+  <img src="cygnal_logo.jpg" alt="Cygnal AI Studio" width="180">
+</p>
 
 # Cygnal AI Studio
 ### Your AI workspace. Connected.
