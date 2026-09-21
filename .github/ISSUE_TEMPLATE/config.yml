@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Cygnal AI Studio Website
+    url: https://cygnal-ai-studio.example.com
+    about: Visit the official website for documentation, guides, and product information.
+  - name: Cygnal AI Studio Community Discussions
+    url: https://github.com/DtsciSim/Cygnal-AI-Studio/discussions
+    about: Ask questions, share ideas, and discuss with the community.
